@@ -17,6 +17,7 @@ code/home/files-from
 #ZSH stuff
 .zshrc
 .zprofile
+.oh-my-zsh/
 
 #VIM stuff
 .vimrc
