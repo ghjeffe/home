@@ -22,3 +22,10 @@ code/home/files-from
 
 #Git stuff
 .gitconfig
+
+#General configs
+.config/htop
+.lesskey
+
+#TMUX
+.tmux.conf
