@@ -1,14 +1,18 @@
-#Paths should be rooted from user's home directory
-#Examples:
-#.zshrc backs up ~/.zshrc
-#.ssh/config backs up ~/.ssh/config
+# Paths should be rooted from user's home directory
+# Examples:
+# .zshrc backs up ~/.zshrc
+# .ssh/config backs up ~/.ssh/config
+
+# Directories should have trailing /
+# Examples:
+# .config/autostart backups all files underneath
 
 
 #Stuff to help backups
 code/home/files-from
 
 #KDE autostart stuff
-.config/autostart
+.config/autostart/
 
 #ZSH stuff
 .zshrc

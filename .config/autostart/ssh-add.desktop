@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment[en_US]=Adds SSH keys to the agent at login, storing passphrases in KDE Wallet
+Comment=Adds SSH keys to the agent at login, storing passphrases in KDE Wallet
+Exec=zsh '~/.local/bin/add_ssh_keys.sh'
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en_US]=SSH Key Loader
+Name=SSH Key Loader
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
