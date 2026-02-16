@@ -1,0 +1,7 @@
+[user]
+	email = garyjeffersii@gmail.com
+	name = Gary H Jeffers II
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
+[core]
+	editor = vim
