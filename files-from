@@ -8,29 +8,35 @@
 # .config/autostart backups all files underneath
 
 
-#Stuff to help backups
+# Stuff to help backups
 code/home/files-from
 
-#KDE autostart stuff
+# KDE autostart stuff
 .config/autostart/
 
-#ZSH stuff
+# ZSH stuff
 .zshrc
 .zprofile
-.oh-my-zsh/
+.oh-my-zsh/custom/
+.oh-my-zsh/.p10k.zsh
 
-#VIM stuff
+# Bash stuff
+.bashrc
+.bash_profile
+.bash_logout
+
+# VIM stuff
 .vimrc
 
-#SSH stuff
+# SSH stuff
 .ssh/config
 
-#Git stuff
+# Git stuff
 .gitconfig
 
-#General configs
+# General configs
 .config/htop
 .lesskey
 
-#TMUX
+# TMUX
 .tmux.conf
