@@ -1,3 +1,6 @@
+#Stuff to help backups
+code/home/files-from
+
 #KDE autostart stuff
 .config/autostart
 
@@ -5,5 +8,5 @@
 .zshrc
 .zprofile
 
-#Stuff to help backups
-*/home/files-from
+#VIM stuff
+.vimrc
