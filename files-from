@@ -1,0 +1,9 @@
+#KDE autostart stuff
+.config/autostart
+
+#ZSH stuff
+.zshrc
+.zprofile
+
+#Stuff to help backups
+*/home/files-from
