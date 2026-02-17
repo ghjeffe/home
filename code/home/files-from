@@ -18,7 +18,7 @@ code/home/files-from
 .zshrc
 .zprofile
 .oh-my-zsh/custom/
-.oh-my-zsh/.p10k.zsh
+#.oh-my-zsh/.p10k.zsh
 
 # Bash stuff
 .bashrc
@@ -36,7 +36,7 @@ code/home/files-from
 
 # General configs
 .config/htop
-.lesskey
+#.lesskey
 
 # TMUX
 .tmux.conf
