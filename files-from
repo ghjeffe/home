@@ -5,7 +5,7 @@
 
 # Directories should have trailing /
 # Examples:
-# .config/autostart backups all files underneath
+# .config/autostart/ backups all files underneath
 
 
 # Stuff to help backups
