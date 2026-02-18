@@ -40,3 +40,6 @@ code/home/files-from
 
 # TMUX
 .tmux.conf
+
+# Systemd stuff
+.config/systemd/user/ssh-agent.service

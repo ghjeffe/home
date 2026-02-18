@@ -5,7 +5,7 @@
 
 # Directories should have trailing /
 # Examples:
-# .config/autostart backups all files underneath
+# .config/autostart/ backups all files underneath
 
 
 # Stuff to help backups
@@ -40,3 +40,6 @@ code/home/files-from
 
 # TMUX
 .tmux.conf
+
+# Systemd stuff
+.config/systemd/user/ssh-agent.service
